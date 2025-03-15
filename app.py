@@ -211,7 +211,7 @@ if st.sidebar.button("Download Full Dataset as CSV"):
     )
 
 st.sidebar.markdown("---")
-st.subheader("About the Author")
+st.subheader("About the Author:")
 
     image_url = "https://github.com/benjaminjvdm/streamlit-author/blob/main/Untitled%20design(1)(1).png?raw=true"
     try:
