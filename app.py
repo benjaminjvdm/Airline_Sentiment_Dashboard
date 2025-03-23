@@ -10,7 +10,6 @@ from datetime import datetime
 import requests
 
 st.title("✈️ Sentiment Analysis of US Airlines Tweets Dashboard")
-st.set_page_config(page_title="Tweet Dashboard", page_icon="✈️")
 
 st.sidebar.title("Navigation & Filters")
 st.markdown("""
